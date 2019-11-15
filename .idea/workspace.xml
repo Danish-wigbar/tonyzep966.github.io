@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb4bf35-07ec-450e-ba66-b5072468dd8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/tonyzep966.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/tags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/tags.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/donate.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/donate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-08-31-lorem-ipsum.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/me/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tag4.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/tag4.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +44,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573809606357</updated>
-      <workItem from="1573809607450" duration="387000" />
+      <workItem from="1573809607450" duration="694000" />
     </task>
+    <task id="LOCAL-00001" summary="Small Change with this Template">
+      <created>1573810073008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573810073008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +69,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Small Change with this Template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small Change with this Template" />
   </component>
 </project>
