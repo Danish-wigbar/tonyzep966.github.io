@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="aeb4bf35-07ec-450e-ba66-b5072468dd8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-09-16-markdown-test-page.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-09-16-markdown-test-page.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-15-helloworld.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-15-hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/tag1.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/Life.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/topbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/topbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/me/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/me/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573809606357</updated>
-      <workItem from="1573809607450" duration="3050000" />
+      <workItem from="1573809607450" duration="3606000" />
     </task>
     <task id="LOCAL-00001" summary="Small Change with this Template">
       <created>1573810073008</created>

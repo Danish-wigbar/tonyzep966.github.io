@@ -3,4 +3,4 @@ layout: me
 title: me
 ---
 
-About Tony Zep
+I'm Tony Zep (Or Akira Kobayashi).Just keep learning!
