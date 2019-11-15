@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb4bf35-07ec-450e-ba66-b5072468dd8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_data/tags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/tags.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/tag1.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/tag1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-11-15-helloworld.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-15-helloworld.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573809606357</updated>
-      <workItem from="1573809607450" duration="1205000" />
+      <workItem from="1573809607450" duration="2243000" />
     </task>
     <task id="LOCAL-00001" summary="Small Change with this Template">
       <created>1573810073008</created>
@@ -66,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573810456840</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Small Change with this Template">
+      <created>1573810816483</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573810816483</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
