@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb4bf35-07ec-450e-ba66-b5072468dd8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/tag4.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/Oher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/tags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/tags.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tag1.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/tag1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573809606357</updated>
-      <workItem from="1573809607450" duration="844000" />
+      <workItem from="1573809607450" duration="1205000" />
     </task>
     <task id="LOCAL-00001" summary="Small Change with this Template">
       <created>1573810073008</created>
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573810310898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Small Change with this Template">
+      <created>1573810456840</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573810456840</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
