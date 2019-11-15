@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aeb4bf35-07ec-450e-ba66-b5072468dd8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/statistic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/statistic.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/statistic.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <updated>1573809606357</updated>
       <workItem from="1573809607450" duration="3606000" />
       <workItem from="1573823715405" duration="391000" />
-      <workItem from="1573824109591" duration="118000" />
+      <workItem from="1573824109591" duration="689000" />
     </task>
     <task id="LOCAL-00001" summary="Small Change with this Template">
       <created>1573810073008</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573811856488</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Try to add a statistic of visitors">
+      <created>1573824391978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573824391978</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Small Change with this Template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Small Change with this Template" />
+    <MESSAGE value="Try to add a statistic of visitors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try to add a statistic of visitors" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
